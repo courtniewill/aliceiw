@@ -36,5 +36,8 @@ border: 5px solid red;
 #content {
     border: 5px dotted red;
     padding: 20px 40px 50px 10px;
+    background-color: #e8f7f8;
     margin: 30px;
+	background-image: url(../images/alice.gif);
+    background-repeat: repeat-y;
 }
