@@ -9,6 +9,7 @@ p{
 	font-family: verdana;
 	font-size: 14px;
 	color: #ECF0F1;
+	border: solid green;
 }
 ol{
 	font-family: monospace;
