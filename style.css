@@ -9,7 +9,6 @@ p{
 	font-family: verdana;
 	font-size: 14px;
 	color: #ECF0F1;
-    	border-left: 2px dashed blue;
 }
 ol{
 	font-family: monospace;
@@ -34,7 +33,10 @@ margin: 0 auto;
 border: 5px solid red;
 }
 #content {
-border: 5px solid orange;
-margin: 30px;
-padding: 30px;
+    border: 5px dotted red;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    margin: 30px;
 }
